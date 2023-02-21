@@ -10,7 +10,12 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.BTL"
+<<<<<<< HEAD
         tools:targetApi="31"
         tools:ignore="GoogleAppIndexingWarning"
         android:usesCleartextTraffic="true"/>
+=======
+        tools:targetApi="31" />
+
+>>>>>>> b19e3569c6f8212f747809ff8ced3f85b0118b50
 </manifest>
